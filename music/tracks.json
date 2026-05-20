@@ -1,1 +1,332 @@
-[]
+[
+  {
+    "file": "The Weeknd - Call Out My Name.mp3",
+    "title": "Call Out My Name",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - Reminder.mp3",
+    "title": "Reminder",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd, Gesaffelstein - I Was Never There.mp3",
+    "title": "I Was Never There",
+    "artist": "The Weeknd, Gesaffelstein",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - The Hills.mp3",
+    "title": "The Hills",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - Die For You.mp3",
+    "title": "Die For You",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - After Hours.mp3",
+    "title": "After Hours",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd, Daft Punk - Starboy.mp3",
+    "title": "Starboy",
+    "artist": "The Weeknd, Daft Punk",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - Often.mp3",
+    "title": "Often",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - Is There Someone Else.mp3",
+    "title": "Is There Someone Else?",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "Gesaffelstein, The Weeknd - Lost in the Fire (feat. The Weeknd).mp3",
+    "title": "Lost in the Fire (feat. The Weeknd)",
+    "artist": "Gesaffelstein, The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "Metro Boomin, The Weeknd, 21 Savage - Creepin' (with The Weeknd & 21 Savage).mp3",
+    "title": "Creepin' (with The Weeknd & 21 Savage)",
+    "artist": "Metro Boomin, The Weeknd, 21 Savage",
+    "genre": "R&B"
+  },
+  {
+    "file": "Aaryan Shah - Renegade.mp3",
+    "title": "Renegade",
+    "artist": "Aaryan Shah",
+    "genre": "R&B"
+  },
+  {
+    "file": "Chase Atlantic - Swim.mp3",
+    "title": "Swim",
+    "artist": "Chase Atlantic",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - Try Me.mp3",
+    "title": "Try Me",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "Tory Lanez - The Color Violet.mp3",
+    "title": "The Color Violet",
+    "artist": "Tory Lanez",
+    "genre": "R&B"
+  },
+  {
+    "file": "Beach Weather - Sex, Drugs, Etc..mp3",
+    "title": "Sex, Drugs, Etc.",
+    "artist": "Beach Weather",
+    "genre": "R&B"
+  },
+  {
+    "file": "Ari Abdul - BABYDOLL (Speed).mp3",
+    "title": "BABYDOLL (Speed)",
+    "artist": "Ari Abdul",
+    "genre": "R&B"
+  },
+  {
+    "file": "K.Flay - High Enough.mp3",
+    "title": "High Enough",
+    "artist": "K.Flay",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd, Lana Del Rey - Stargirl Interlude.mp3",
+    "title": "Stargirl Interlude",
+    "artist": "The Weeknd, Lana Del Rey",
+    "genre": "R&B"
+  },
+  {
+    "file": "Arctic Monkeys - 505.mp3",
+    "title": "505",
+    "artist": "Arctic Monkeys",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - Earned It (Fifty Shades Of Grey) - From The Fifty Shades Of Grey Soundtrack.mp3",
+    "title": "Earned It (Fifty Shades Of Grey) - From The \"Fifty Shades Of Grey\" Soundtrack",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "Labrinth - Mount Everest.mp3",
+    "title": "Mount Everest",
+    "artist": "Labrinth",
+    "genre": "R&B"
+  },
+  {
+    "file": "Taylor Swift - Don’t Blame Me.mp3",
+    "title": "Don’t Blame Me",
+    "artist": "Taylor Swift",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Neighbourhood - Softcore.mp3",
+    "title": "Softcore",
+    "artist": "The Neighbourhood",
+    "genre": "R&B"
+  },
+  {
+    "file": "Two Feet - I Feel Like I'm Drowning.mp3",
+    "title": "I Feel Like I'm Drowning",
+    "artist": "Two Feet",
+    "genre": "R&B"
+  },
+  {
+    "file": "Everybody Loves an Outlaw - I See Red.mp3",
+    "title": "I See Red",
+    "artist": "Everybody Loves an Outlaw",
+    "genre": "R&B"
+  },
+  {
+    "file": "Two Feet - Love Is a Bitch.mp3",
+    "title": "Love Is a Bitch",
+    "artist": "Two Feet",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - High For This.mp3",
+    "title": "High For This",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "Wale, Miguel - Lotus Flower Bomb (feat. Miguel).mp3",
+    "title": "Lotus Flower Bomb (feat. Miguel)",
+    "artist": "Wale, Miguel",
+    "genre": "R&B"
+  },
+  {
+    "file": "PARTYNEXTDOOR, Drake - Recognize (feat. Drake).mp3",
+    "title": "Recognize (feat. Drake)",
+    "artist": "PARTYNEXTDOOR, Drake",
+    "genre": "R&B"
+  },
+  {
+    "file": "Doja Cat - Streets.mp3",
+    "title": "Streets",
+    "artist": "Doja Cat",
+    "genre": "R&B"
+  },
+  {
+    "file": "Beyoncé - Crazy In Love - From The Fifty Shades Of Grey Soundtrack.mp3",
+    "title": "Crazy In Love - From The \"Fifty Shades Of Grey\" Soundtrack",
+    "artist": "Beyoncé",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - Earned It (Fifty Shades Of Grey).mp3",
+    "title": "Earned It (Fifty Shades Of Grey)",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "Labrinth - Still Don't Know My Name (From Euphoria Season 1 Soundtrack).mp3",
+    "title": "Still Don't Know My Name (From \"Euphoria: Season 1\" Soundtrack)",
+    "artist": "Labrinth",
+    "genre": "R&B"
+  },
+  {
+    "file": "Drake - Trust Issues.mp3",
+    "title": "Trust Issues",
+    "artist": "Drake",
+    "genre": "R&B"
+  },
+  {
+    "file": "Ari Abdul - BABYDOLL.mp3",
+    "title": "BABYDOLL",
+    "artist": "Ari Abdul",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Neighbourhood - Reflections.mp3",
+    "title": "Reflections",
+    "artist": "The Neighbourhood",
+    "genre": "R&B"
+  },
+  {
+    "file": "Chase Atlantic - Friends.mp3",
+    "title": "Friends",
+    "artist": "Chase Atlantic",
+    "genre": "R&B"
+  },
+  {
+    "file": "Summer Walker, NO1-NOAH - White Tee (with NO1-NOAH).mp3",
+    "title": "White Tee (with NO1-NOAH)",
+    "artist": "Summer Walker, NO1-NOAH",
+    "genre": "R&B"
+  },
+  {
+    "file": "Labrinth - Formula (From Euphoria Season 1 Soundtrack).mp3",
+    "title": "Formula (From \"Euphoria: Season 1\" Soundtrack)",
+    "artist": "Labrinth",
+    "genre": "R&B"
+  },
+  {
+    "file": "Ex Habit - love me.mp3",
+    "title": "love me",
+    "artist": "Ex Habit",
+    "genre": "R&B"
+  },
+  {
+    "file": "Brent Faiyaz - Trust.mp3",
+    "title": "Trust",
+    "artist": "Brent Faiyaz",
+    "genre": "R&B"
+  },
+  {
+    "file": "Disclosure, Eliza Doolittle, Flume - You & Me - Flume Remix.mp3",
+    "title": "You & Me - Flume Remix",
+    "artist": "Disclosure, Eliza Doolittle, Flume",
+    "genre": "R&B"
+  },
+  {
+    "file": "Arctic Monkeys - Do I Wanna Know.mp3",
+    "title": "Do I Wanna Know?",
+    "artist": "Arctic Monkeys",
+    "genre": "R&B"
+  },
+  {
+    "file": "Ex Habit - Too Late To Love You.mp3",
+    "title": "Too Late To Love You",
+    "artist": "Ex Habit",
+    "genre": "R&B"
+  },
+  {
+    "file": "Lana Del Rey - West Coast.mp3",
+    "title": "West Coast",
+    "artist": "Lana Del Rey",
+    "genre": "R&B"
+  },
+  {
+    "file": "Omido, Ex Habit - PLEASE.mp3",
+    "title": "PLEASE",
+    "artist": "Omido, Ex Habit",
+    "genre": "R&B"
+  },
+  {
+    "file": "Montell Fish - Hotel.mp3",
+    "title": "Hotel",
+    "artist": "Montell Fish",
+    "genre": "R&B"
+  },
+  {
+    "file": "Ex Habit - love me - sped up.mp3",
+    "title": "love me - sped up",
+    "artist": "Ex Habit",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Neighbourhood - Sweater Weather.mp3",
+    "title": "Sweater Weather",
+    "artist": "The Neighbourhood",
+    "genre": "R&B"
+  },
+  {
+    "file": "K.Flay, RAC - High Enough - RAC Remix.mp3",
+    "title": "High Enough - RAC Remix",
+    "artist": "K.Flay, RAC",
+    "genre": "R&B"
+  },
+  {
+    "file": "Rosenfeld - Till Death Do Us Part.mp3",
+    "title": "Till Death Do Us Part",
+    "artist": "Rosenfeld",
+    "genre": "R&B"
+  },
+  {
+    "file": "Nelly Furtado - Say It Right.mp3",
+    "title": "Say It Right",
+    "artist": "Nelly Furtado",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - What You Need.mp3",
+    "title": "What You Need",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  },
+  {
+    "file": "The Weeknd - Acquainted.mp3",
+    "title": "Acquainted",
+    "artist": "The Weeknd",
+    "genre": "R&B"
+  }
+]
