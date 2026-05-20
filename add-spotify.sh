@@ -107,7 +107,7 @@ while IFS=$'\t' read -r subtitle title primary; do
   query="$primary $title"
   echo
   echo "[$i/$TOTAL] $artist — $title"
-  OUT=$("$ADD_SONG" "ytsearch1:$query" "$title" "$artist" "$GENRE_OV" 2>&1)
+  OUT=$("$ADD_SONG" "ytsearch1:$query" "$title" "$artist" "$GENRE_OV" 2>&1) || true
   if   echo "$OUT" | grep -q "^  ok:";   then ok=$((ok+1));
   elif echo "$OUT" | grep -q "^  skip:"; then skip=$((skip+1));
   else                                          fail=$((fail+1));
